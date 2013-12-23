@@ -1,0 +1,6 @@
+Simple Cocoa Touch Singleton class with queue example.
+For ARC enabled environment only.
+
+Based on "USING THE SINGLETON PATTERN IN OBJECTIVE-C PART 2" from Fred McCann.
+This class is improved. You can call init method more times and object with stay in consistent state because initialization is allowed only once.
+
